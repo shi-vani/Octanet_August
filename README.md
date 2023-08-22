@@ -20,8 +20,8 @@ Landing pages are more focused than other areas of your website, allowing you to
 # What should a landing page include?
 Effective landing pages have the same elements that improve performance and generate more leads. Landing pages must include:
 
--> A headline
--> Description of the offer
--> Supporting images and videos
--> Social proof in the form of testimonials or reviews
--> A dedicated form for capturing customer data.
+1. A headline
+2. Description of the offer
+3. Supporting images and videos
+4. Social proof in the form of testimonials or reviews
+5. A dedicated form for capturing customer data.
